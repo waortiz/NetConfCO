@@ -2,8 +2,8 @@
 #RECUERDE REEMPLAZAR POR SU NOMBRE SIN ESPACIOS
 
 cd /home/adminws/agents
-mkdir pongasunombreyapellidosinespacios
-cd pongasunombreyapellidosinespacios
+mkdir williamortiz
+cd williamortiz
 sudo apt-get install -y libunwind8 libcurl3
 
 
